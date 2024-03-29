@@ -1,0 +1,54 @@
+[28-Mar-2024 17:00:47 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/mandakom/Local Sites/fictional-university/app/public/experiment.php on line 4
+[28-Mar-2024 17:39:43 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 6
+[28-Mar-2024 17:39:50 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[28-Mar-2024 17:52:49 UTC] PHP Parse error:  syntax error, unexpected token "++" in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 6
+[28-Mar-2024 23:17:32 UTC] PHP Fatal error:  Uncaught Error: Value of type int is not callable in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:4
+Stack trace:
+#0 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/mandakom/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/mandakom...')
+#2 /Users/mandakom/Local Sites/fictional-university/app/public/index.php(17): require('/Users/mandakom...')
+#3 {main}
+  thrown in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[28-Mar-2024 23:29:57 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 5
+[28-Mar-2024 23:30:16 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 9
+[28-Mar-2024 23:30:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 9
+[28-Mar-2024 23:31:09 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 9
+[28-Mar-2024 23:31:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 9
+[28-Mar-2024 23:31:21 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 10
+[28-Mar-2024 23:31:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 10
+[28-Mar-2024 23:31:29 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:31:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:13 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:16 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:34 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:36 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:33:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:35:41 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:35:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:42:43 UTC] PHP Warning:  Undefined variable $names in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[28-Mar-2024 23:42:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 11
+[29-Mar-2024 00:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_styles() in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:4
+Stack trace:
+#0 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(324): university_files('')
+#1 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/script-loader.php(2262): do_action('wp_enqueue_scri...')
+#4 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#5 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/general-template.php(3052): do_action('wp_head')
+#8 /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php(4): wp_head()
+#9 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/template.php(790): require_once('/Users/mandakom...')
+#10 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/template.php(725): load_template('/Users/mandakom...', true, Array)
+#11 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#12 /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(2): get_header()
+#13 /Users/mandakom/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/mandakom...')
+#14 /Users/mandakom/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/mandakom...')
+#15 /Users/mandakom/Local Sites/fictional-university/app/public/index.php(17): require('/Users/mandakom...')
+#16 {main}
+  thrown in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 4
+[29-Mar-2024 01:55:21 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 5
+[29-Mar-2024 01:55:21 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/mandakom/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 5
